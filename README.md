@@ -5,8 +5,10 @@ Guess a Number Between is a simple program written in C#, where you have to gues
 # Installation
 Clone it from Github:
 
-$ git clone https://github.com/helloflask/guess.git
-$ cd guess
+```
+$ git clone https://github.com/iLeandro/guessthenumber.git
+$ cd guessthenumber
+```
 
 # Contributing
 Build 

@@ -2,6 +2,8 @@
 Guess a Number Between is a simple program written in C#, where you have to guess the number between 1 and 100
 
 
+
+
 ## Installation
 Clone it from Github:
 
@@ -11,12 +13,18 @@ $ cd guessthenumber
 ```
 
 
+
+
 ## Screenshots
 ![Alt text](https://i.imgur.com/ZjXhSEt.png "Test")
 
 
+
+
 ## Contributing
 Build 
+
+
 
 
 ### License

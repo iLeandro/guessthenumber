@@ -2,7 +2,7 @@
 Guess a Number Between is a simple program written in C#, where you have to guess the number between 1 and 100
 
 
-# Installation
+## Installation
 Clone it from Github:
 
 ```
@@ -10,9 +10,14 @@ $ git clone https://github.com/iLeandro/guessthenumber.git
 $ cd guessthenumber
 ```
 
-# Contributing
+
+## Screenshots
+![Alt text](https://i.imgur.com/ZjXhSEt.png "Test")
+
+
+## Contributing
 Build 
 
 
-# License
+### License
 All contributions are made under the X License . See LICENSE.
